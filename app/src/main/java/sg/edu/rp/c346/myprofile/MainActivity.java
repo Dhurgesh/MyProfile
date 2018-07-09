@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         etName = findViewById(R.id.editTextName);
         etGpa = findViewById(R.id.editTextGPA);
         rgGender = findViewById(R.id.radioGroupGender);
+        //commit changes
     }
 
 
